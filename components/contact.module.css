@@ -1,0 +1,73 @@
+.container {
+    background: linear-gradient(175.59deg, #030303 14.27%, #02141F 113.88%);
+    height: 454px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+    padding: 100px;
+}
+.image1 {
+    align-items: flex-start;
+    width: 30px;
+}
+.gmailicon {
+    display: flex;
+}
+.gmail {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.image2 {
+    align-items: flex-start;
+    width: 30px;
+}
+.phoneicon {
+    display: flex;
+    margin-top: 10px;
+}
+.phone {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.image3 {
+    align-items: flex-start;
+    width: 30px;
+}
+.instaicon {
+    display: flex;
+    margin-top: 10px;
+}
+.insta {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.image4 {
+    align-items: flex-start;
+    width: 30px;
+}
+.twittericon {
+    display: flex;
+    margin-top: 10px;
+}
+.twitter {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.support{
+    text-align: left;
+    margin-top: 40px;
+    width: 200px;
+}
+
+.contact {
+    text-align: left;
+    width: 200px;
+}
+
+.socials {
+    text-align: left;
+    width: 200px;
+}

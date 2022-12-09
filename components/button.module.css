@@ -1,0 +1,37 @@
+.primary {
+    box-sizing: border-box;
+    width: 105.05px;
+    height: 34.39px;
+    background: linear-gradient(166.3deg, rgba(6, 98, 111, 0.44) 12.77%, rgba(24, 145, 130, 0.79) 93.77%);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(5px);
+    border-radius: 48px;
+    border: 1px;
+    cursor: pointer;
+  }
+  .primary:hover {
+    background-color: #001aff;
+  }
+  
+  .secondary {
+    background-color: transparent;
+    width: 103px;
+    height: 76px;
+    color: white;
+    font-size: 19px;
+    border: none;
+    cursor: pointer;
+  }
+  .secondary:hover {
+    background:  #0452ac;
+    transition: all 0.3s ease;
+  }
+
+.tertiary {
+  width: 50.95px;
+  height: 18.74px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #126EF8;
+}
