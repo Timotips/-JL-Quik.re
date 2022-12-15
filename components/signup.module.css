@@ -17,11 +17,6 @@
     position: relative;
 }
 
-.image {
-    width: 1110px;
-    height: 952px;
-}
-
 .context {
     display: flex;
     position: absolute;

@@ -11,7 +11,6 @@
 }
 .image1 {
     align-items: flex-start;
-    width: 30px;
 }
 .gmailicon {
     display: flex;
@@ -22,7 +21,6 @@
 }
 .image2 {
     align-items: flex-start;
-    width: 30px;
 }
 .phoneicon {
     display: flex;
@@ -34,7 +32,6 @@
 }
 .image3 {
     align-items: flex-start;
-    width: 30px;
 }
 .instaicon {
     display: flex;
@@ -46,7 +43,6 @@
 }
 .image4 {
     align-items: flex-start;
-    width: 30px;
 }
 .twittericon {
     display: flex;
